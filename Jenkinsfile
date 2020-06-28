@@ -6,7 +6,7 @@ pipeline {
         NEXUS_PROTOCOL = "http"
         NEXUS_URL = "localhost:8081"
         NEXUS_REPOSITORY = "Declarative-pipeline"
-        NEXUS_CREDENTIAL_ID = "nexus-pssw"
+        NEXUS_CREDENTIAL_ID = "nexusid"
         
     }
 
